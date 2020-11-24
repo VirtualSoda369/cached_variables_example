@@ -15,6 +15,9 @@ Oil on Canvas, 48 x 85 inches
 ---> [CLICK HERE](https://developer.mozilla.org/en-US/docs/Web/API/console#Timers) 
 
 
+// The code of this example can be foud in the repo
+
+
 ![alt_tex](https://github.com/VirtualSoda369/cached_variables_example/blob/main/Post/foto_post_1.jpg?raw=true "img_1")
 
 ![alt_tex](https://github.com/VirtualSoda369/cached_variables_example/blob/main/Post/foto_post_2.jpg?raw=true "img_2")
