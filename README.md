@@ -21,8 +21,8 @@ Oil on Canvas, 48 x 85 inches
 
 ![alt_tex](https://github.com/VirtualSoda369/cached_variables_example/blob/main/Post/foto_post_3.jpg?raw=true "img_3")
 
-##This is not managing memory directly , like malloc() , but in a indirect way.
-We are preventing the program to use more memory than is actually needed for an operation.
+## This is not managing memory directly , like malloc() , but in a indirect way.
+## We are preventing the program to use more memory than is actually needed for an operation.
 
 ![alt_tex](https://github.com/VirtualSoda369/cached_variables_example/blob/main/Post/foto_post_4.jpg?raw=true "img_4")
 
